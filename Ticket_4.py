@@ -1,4 +1,4 @@
-# Revision number 1 9Feb2022
+# Revision number 1 10Feb2022
 ## Begin Derek Ruggirello here 9Feb2022
 
 character = input("Please enter a letter to be determined if it is a vowel: ") # Variable for user input
